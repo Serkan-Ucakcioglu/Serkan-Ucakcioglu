@@ -1,10 +1,10 @@
 ### Hi I'm Serkan 👋
 <hr>
-### Front End Developer 
+### Front End Developer
 <hr>
 
 - 🌱 I’m currently learning React Js .
-- 📫 How to reach me: serkanuckc123@gmail.com twitter :[ @serkaann06](https://twitter.com/serkaann06)
+- 📫 How to reach me: serkanuckc123@gmail.com  twitter :[ @serkaann06](https://twitter.com/serkaann06)
 - 💬 Talk to me about JavaScript, React, CSS, Tailwind , Vue,
 
 
