@@ -1,6 +1,6 @@
 ### Hi I'm Serkan 👋
 <hr>
-## Front End Developer
+<h1> Front End Developer</h1>
 <hr>
 
 - 🌱 I’m currently learning React Js .
