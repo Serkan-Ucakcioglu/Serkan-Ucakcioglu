@@ -5,10 +5,13 @@
 💬 Talk to me about JavaScript, React, CSS, Tailwind , Vue, 
 
 ### Languages and Tools:
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/225px-Unofficial_JavaScript_logo_2.svg.png"  width="100" height="100" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"  width="100" height="100" />
-![image](https://user-images.githubusercontent.com/98692987/183293290-5256d384-9253-4957-854c-933394a9d98f.png | 100x100)
-![image](https://user-images.githubusercontent.com/98692987/183293401-f2518e66-655d-47fb-942c-b2bf39c8c805.png)
-![image](https://user-images.githubusercontent.com/98692987/183293321-e9cd5568-50ff-4279-9622-46918fee0cc3.png)
-![image](https://user-images.githubusercontent.com/98692987/183293334-20b7cae8-8124-459c-ad00-74fa614e0168.png)
-![image](https://user-images.githubusercontent.com/98692987/183293365-4c36f9c1-f906-452c-965c-410454ab828b.png)
-https://user-images.githubusercontent.com/98692987/183293290-5256d384-9253-4957-854c-933394a9d98f.png
+<img src="https://user-images.githubusercontent.com/98692987/183293290-5256d384-9253-4957-854c-933394a9d98f.png"  width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/98692987/183293401-f2518e66-655d-47fb-942c-b2bf39c8c805.png"  width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/98692987/183293321-e9cd5568-50ff-4279-9622-46918fee0cc3.png"  width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/98692987/183293334-20b7cae8-8124-459c-ad00-74fa614e0168.png"  width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/98692987/183293365-4c36f9c1-f906-452c-965c-410454ab828b.png"  width="100" height="100" />
+<img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4"  width="100" height="100" />
+
+
