@@ -4,7 +4,7 @@
 <hr>
 
 - 🌱 I’m currently learning React Js .
-- 📫 How to reach me: serkanuckc123@gmail.com  twitter :[ @serkaann06](https://twitter.com/serkaann06)
+- 📫 How to reach me: serkanuckc123@gmail.com, linkedin :  https://www.linkedin.com/in/serkann06/
 - 💬 Talk to me about JavaScript, React, CSS, Tailwind , Vue,
 
 
