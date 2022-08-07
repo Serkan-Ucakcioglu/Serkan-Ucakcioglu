@@ -1,13 +1,10 @@
 ### Hi I'm Serkan  👋
 
 
-**Serkan-Ucakcioglu/Serkan-Ucakcioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning React Js .
-- 📫 How to reach me: serkanuckc123@gmail.com twitter: @serkaann06
+- 📫 How to reach me: serkanuckc123@gmail.com twitter :[ @serkaann06](https://twitter.com/serkaann06)
 💬 Talk to me about JavaScript, React, CSS, Tailwind , Vue, 
 
 Languages and Tools:
