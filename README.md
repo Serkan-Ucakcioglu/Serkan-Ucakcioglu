@@ -1,13 +1,10 @@
 ### Hi I'm Serkan  👋
 
-
-
-
 - 🌱 I’m currently learning React Js .
-- 📫 How to reach me: serkanuckc123@gmail.com twitter :[ @serkaann06](https://twitter.com/serkaann06)
+- 📫 How to reach me: serkanuckc123@gmail.com  twitter :[ @serkaann06](https://twitter.com/serkaann06)
 💬 Talk to me about JavaScript, React, CSS, Tailwind , Vue, 
 
-Languages and Tools:
+### Languages and Tools:
 ![image](https://user-images.githubusercontent.com/98692987/183293290-5256d384-9253-4957-854c-933394a9d98f.png)
 ![image](https://user-images.githubusercontent.com/98692987/183293401-f2518e66-655d-47fb-942c-b2bf39c8c805.png)
 ![image](https://user-images.githubusercontent.com/98692987/183293321-e9cd5568-50ff-4279-9622-46918fee0cc3.png)
