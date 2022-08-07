@@ -3,7 +3,7 @@
 <h1> Front End Developer</h1>
 <hr>
 
-- 🌱 I’m currently learning React Js and Tailwind  .
+- 🌱 I’m currently learning React Js  .
 - 📫 How to reach me: serkanuckc123@gmail.com
 - 💬 Talk to me about JavaScript, React, CSS, Tailwind , VueJS-VueTs,
 
