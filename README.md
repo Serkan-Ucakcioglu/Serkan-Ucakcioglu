@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning React Js  .
 - 📫 How to reach me: serkanuckc123@gmail.com
-- 💬 Talk to me about JavaScript, React, CSS, Tailwind , VueJS-VueTs,
+- 💬 Talk to me about JavaScript, React, CSS, Tailwind , VueJS-VueTs,Vuex , Pinia, Router
 
 
 ### Languages and Tools:
