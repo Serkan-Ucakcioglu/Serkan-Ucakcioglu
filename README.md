@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/98692987/183293334-20b7cae8-8124-459c-ad00-74fa614e0168.png"  width="150" height="100" />
 <img src="https://user-images.githubusercontent.com/98692987/183293365-4c36f9c1-f906-452c-965c-410454ab828b.png"  width="200" height="110" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="100" height="100" />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-zc_SP4nPQAV00kyi5jkL9d9CLpPmkR5CwCVqAgwNzZLU3NouzQptZ7eXG81bSaD51gg&usqp=CAU" width="100"
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-zc_SP4nPQAV00kyi5jkL9d9CLpPmkR5CwCVqAgwNzZLU3NouzQptZ7eXG81bSaD51gg&usqp=CAU" width="150"
 height="100" />
 <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4"  width="100" height="100" />
   </div>
