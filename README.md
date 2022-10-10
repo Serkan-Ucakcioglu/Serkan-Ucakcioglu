@@ -5,7 +5,7 @@
 
 - 🌱 .
 - 📫 How to reach me: serkanuckc123@gmail.com
-- 💬 Talk to me about JavaScript, React, Redux-Toolkit, CSS, Tailwind , VueJS-VueTs,Vuex , Pinia, Router
+- 💬 Talk to me about JavaScript, React, Redux-Toolkit, CSS, Tailwind , VueJS-VueTs,Vuex , Router
 
 
 ### Languages and Tools:
