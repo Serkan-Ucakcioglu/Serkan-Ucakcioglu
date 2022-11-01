@@ -4,6 +4,7 @@
 <hr>
 
 - 🌱 .
+- 📚 I'm constantly learning new skills and striving for progress
 - 📫 How to reach me: serkanuckc123@gmail.com
 - 💬 Talk to me about JavaScript, React, Redux-Toolkit, CSS, Tailwind , VueJS-VueTs,Vuex , Router
 
