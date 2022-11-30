@@ -4,7 +4,7 @@
 <hr>
 
 - 🌱 I learn a little every day.
-- 📚 I'm constantly learning new skills and striving for progress
+- 📚 I like to have an idea about new technologies, to learn, to update myself, to develop.
 - 📫 How to reach me: serkanuckc123@gmail.com
 - 💬 Talk to me about JavaScript, React, Redux-Toolkit, CSS, Tailwind , VueJS-VueTs,Vuex , Router
 
