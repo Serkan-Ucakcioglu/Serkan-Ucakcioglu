@@ -6,7 +6,7 @@
 - 🌱 I learn a little every day.
 - 📚 I like to have an idea about new technologies, to learn, to update myself, to develop.
 - 📫 How to reach me: serkanuckc123@gmail.com
-- 💬 Talk to me about JavaScript, React, Redux-Toolkit, CSS, Tailwind , VueJS-VueTs,Vuex , Router
+- 💬 Talk to me about JavaScript, React, Redux-Toolkit, CSS, Tailwind , VueJS,Vuex , Router
 
 
 ### Languages and Tools:
