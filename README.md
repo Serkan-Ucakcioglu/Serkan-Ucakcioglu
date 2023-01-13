@@ -23,6 +23,5 @@
 height="100" />
 <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4"  width="100" height="100" />
 <img src="https://blog.theodo.com/static/bb12ede8ede50acc8cdb447e7dc8bf6e/6fe88/rq-logo.png"  width="130" height="100" />
-![image](https://user-images.githubusercontent.com/98692987/212304057-c19bf29a-6812-4a52-9a00-a26bcc056240.png)
-  
+<img src="https://user-images.githubusercontent.com/98692987/212304057-c19bf29a-6812-4a52-9a00-a26bcc056240.png" />  
   </div>
