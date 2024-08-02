@@ -20,8 +20,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-zc_SP4nPQAV00kyi5jkL9d9CLpPmkR5CwCVqAgwNzZLU3NouzQptZ7eXG81bSaD51gg&usqp=CAU" width="150"
 height="100" />
 <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4"  width="100" height="100" />
-<img src="https://raw.githubusercontent.com/react-hook-form/documentation/master/src/images/react-hook-form-og.png"  width="150" height="100" />
-<img src="https://blog.theodo.com/static/bb12ede8ede50acc8cdb447e7dc8bf6e/6fe88/rq-logo.png"  width="130" height="100" />
 <img src="https://user-images.githubusercontent.com/98692987/212304057-c19bf29a-6812-4a52-9a00-a26bcc056240.png" />  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"  width="100" height="80" />  
 
