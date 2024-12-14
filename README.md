@@ -23,7 +23,7 @@ height="100" />
 <img src="https://user-images.githubusercontent.com/98692987/212304057-c19bf29a-6812-4a52-9a00-a26bcc056240.png" />  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"  width="100" height="80" />  
   <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg"  width="100" height="100" />
-
+<img src="https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png"  width="100" height="100" />
 
   </div>
   
