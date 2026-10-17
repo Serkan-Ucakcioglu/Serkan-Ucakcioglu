@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="mailto:serkanuckc123@gmail.com"><img src="https://img.shields.io/badge/Email-serkanuckc123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Serkan-Ucakcioglu&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </p>
 
 ---
